@@ -3,8 +3,6 @@ package application;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import javax.swing.text.StyledEditorKit.BoldAction;
-
 import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
